@@ -1,9 +1,9 @@
 {
-    "name": "My Theme",
+    "name": "My Theme2",
     "is_dark": true,
     "colors": {
-        "accent-color": "261C2C",
-        "accent": "3E2C41",
+        "accent-color": "#4d335c",
+        "accent": "#4d335c",
         "primary-color": "#5C527F",
         "warning-color": "#faa81ad9",
         "alert": "#faa81ad9",
