@@ -2,9 +2,9 @@
     "name": "My Theme5",
     "is_dark": true,
     "colors": {
-        "accent-color": "#4d335c",
-        "accent": "#4d335c",
-        "primary-color": "#764f8c",
+        "accent-color": "#7b4b96",
+        "accent": "#7b4b96",
+        "primary-color": "#5c2f75",
         "warning-color": "#ab1d69",
         "alert": "#ab1d69",
 
@@ -12,7 +12,7 @@
         "roomlist-background-color": "#3E2C41",
         "roomlist-text-color": "#ffffff",
         "roomlist-text-secondary-color": "#ffffff",
-        "roomlist-highlights-color": "#a372ab",
+        "roomlist-highlights-color": "#80428a",
         "roomlist-separator-color": "#3E2C41",
 
         "timeline-background-color": "#261C2C",
@@ -20,12 +20,12 @@
         "secondary-content": "#ffffff",
         "tertiary-content": "#ffffff",
         "timeline-text-secondary-color": "#e6e6e6",
-        "timeline-highlights-color": "#614870",
+        "timeline-highlights-color": "#503063",
 
-        "reaction-row-button-selected-bg-color": "#614870",
-        "menu-selected-color": "#614870",
-        "focus-bg-color": "#614870",
-        "room-highlight-color": "#614870",
+        "reaction-row-button-selected-bg-color": "#503063",
+        "menu-selected-color": "#503063",
+        "focus-bg-color": "#503063",
+        "room-highlight-color": "#503063",
         "other-user-pill-bg-color": "#7f4e9c",
         "togglesw-off-color": "#72767d"
     }
