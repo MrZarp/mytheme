@@ -1,0 +1,32 @@
+{
+    "name": "My Theme5",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#7b4b96",
+        "accent": "#7b4b96",
+        "primary-color": "#5c2f75",
+        "warning-color": "#ab1d69",
+        "alert": "#ab1d69",
+
+        "sidebar-color": "#261C2C",
+        "roomlist-background-color": "#3E2C41",
+        "roomlist-text-color": "#ffffff",
+        "roomlist-text-secondary-color": "#ffffff",
+        "roomlist-highlights-color": "#80428a",
+        "roomlist-separator-color": "#3E2C41",
+
+        "timeline-background-color": "#261C2C",
+        "timeline-text-color": "#ffffff",
+        "secondary-content": "#ffffff",
+        "tertiary-content": "#ffffff",
+        "timeline-text-secondary-color": "#e6e6e6",
+        "timeline-highlights-color": "#503063",
+
+        "reaction-row-button-selected-bg-color": "#503063",
+        "menu-selected-color": "#503063",
+        "focus-bg-color": "#503063",
+        "room-highlight-color": "#503063",
+        "other-user-pill-bg-color": "#7f4e9c",
+        "togglesw-off-color": "#72767d"
+    }
+}
