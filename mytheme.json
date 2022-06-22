@@ -1,32 +1,32 @@
 {
-    "name": "My Theme2",
+    "name": "MyTheme3",
     "is_dark": true,
     "colors": {
         "accent-color": "#4d335c",
         "accent": "#4d335c",
-        "primary-color": "#5C527F",
-        "warning-color": "#faa81ad9",
-        "alert": "#faa81ad9",
+        "primary-color": "#714c87",
+        "warning-color": "#bf3457",
+        "alert": "#bf3457",
 
-        "sidebar-color": "#261C2C",
+        "sidebar-color": "#372940",
         "roomlist-background-color": "#3E2C41",
         "roomlist-text-color": "#dcddde",
-        "roomlist-text-secondary-color": "#261C2C",
-        "roomlist-highlights-color": "#5C527F",
+        "roomlist-text-secondary-color": "#d0bcd6",
+        "roomlist-highlights-color": "#7d5e82",
         "roomlist-separator-color": "#3E2C41",
 
-        "timeline-background-color": "#261C2C",
+        "timeline-background-color": "#312438",
         "timeline-text-color": "#dcddde",
         "secondary-content": "#dcddde",
         "tertiary-content": "#dcddde",
-        "timeline-text-secondary-color": "#b9bbbe",
-        "timeline-highlights-color": "#5C527F",
+        "timeline-text-secondary-color": "#cccdcf",
+        "timeline-highlights-color": "#533d5e",
 
-        "reaction-row-button-selected-bg-color": "#5C527F",
-        "menu-selected-color": "#5C527F",
-        "focus-bg-color": "#5C527F",
-        "room-highlight-color": "#5C527F",
-        "other-user-pill-bg-color": "#6E85B2",
+        "reaction-row-button-selected-bg-color": "#7d5e82",
+        "menu-selected-color": "#7d5e82",
+        "focus-bg-color": "#7d5e82",
+        "room-highlight-color": "#7d5e82",
+        "other-user-pill-bg-color": "#866399",
         "togglesw-off-color": "#72767d"
     }
 }
