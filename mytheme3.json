@@ -1,0 +1,32 @@
+{
+    "name": "MyTheme3",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#3F46BF",
+        "accent": "#3F46BF",
+        "primary-color": "#00aff4",
+        "warning-color": "#D93D66",
+        "alert": "#D93D66",
+
+        "sidebar-color": "#0d0f12",
+        "roomlist-background-color": "#2f3136",
+        "roomlist-text-color": "#ffffff",
+        "roomlist-text-secondary-color": "#8e9297",
+        "roomlist-highlights-color": "#373e4a",
+        "roomlist-separator-color": "#313742",
+
+        "timeline-background-color": "#1C2026",
+        "timeline-text-color": "#ffffff",
+        "secondary-content": "#ffffff",
+        "tertiary-content": "##ffffff",
+        "timeline-text-secondary-color": "#a0abba",
+        "timeline-highlights-color": "#0d0f12",
+
+        "reaction-row-button-selected-bg-color": "#3F46BF",
+        "menu-selected-color": "#3F46BF",
+        "focus-bg-color": "#3F46BF",
+        "room-highlight-color": "#3F46BF",
+        "other-user-pill-bg-color": "#3F46BF",
+        "togglesw-off-color": "#495161"
+    }
+}
